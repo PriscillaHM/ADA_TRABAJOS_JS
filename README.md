@@ -1,6 +1,6 @@
 # Ejercicios y ejemplos hechos en el curso Introduccion al lenguaje JS
-# Clase 8 
-1. Instalar prompt sync: Abrir una terminar y navegar hasta la carpeta donde se trabajara,
+# Instalacion de prompt sync
+1. Abrir una terminar y navegar hasta la carpeta donde se trabajara,
    escribir el siguiente comando y dar enter.
    
    		npm i prompt-sync
