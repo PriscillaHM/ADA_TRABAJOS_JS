@@ -8,12 +8,14 @@ const prompt = require("prompt-sync")({ sigint: true});
 let cadena = prompt('Ingrese una cadena de texto: ');
 
 let palindromo = (cadena) =>{
-    let cadenaSinEspacios = cadena.trim();
-    let cadenaSeparada = cadenaSinEspacios.split(" ");
-    
-    
+    let cadenaFormateada = cadena.toLowerCase().replace(/[^a-z0-9]/g, "");
+    let cadenaInvertida = cadenaFormateada.split('').reverse().join('');
 
-    return cadenaSeparada;
+    if(cadenaFormateada === cadenaInvertida){
+        console.log('La cadena es un palindromo');
+    } else {
+        console.log('La cadena no es un palindromo');
+    }
 }
 
-console.log(palindromo(cadena));
+palindromo(cadena);
