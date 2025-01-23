@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "The good place",
+    "temporadas": 3
+  },
+  {
+    "id": 2,
+    "nombre": "Modern Family",
+    "temporadas": 11
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Terminar ejercicios del curso",
+    "completada": false
+  },
+  {
+    "id": 2,
+    "descripcion": "Pagar la universidad",
+    "completada": false
+  },
+  {
+    "id": 3,
+    "descripcion": "Lavar la ropa",
+    "completada": true
+  }
+]

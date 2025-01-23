@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "Proyecto clase Introduccion a JS",
+    "finalizado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Proyecto clase Introduccion a NodeJs",
+    "finalizado": false
+  }
+]

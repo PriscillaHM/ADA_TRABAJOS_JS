@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cumple Piki",
+    "fecha": "01/10/2025",
+    "lugar": "Casa Piki"
+  },
+  {
+    "id": 3,
+    "nombre": "Cumple Kenai",
+    "fecha": "20/05/2025",
+    "lugar": "Casa Kenai"
+  }
+]
