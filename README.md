@@ -1,4 +1,4 @@
-# Ejercicios y ejemplos hechos en el curso Introduccion al lenguaje JS
+# Ejercicios y ejemplos hechos en el curso Introduccion al lenguaje JS e Introduccion a Node.js
 # Instalacion de prompt sync
 1. Abrir una terminar y navegar hasta la carpeta donde se trabajara,
    escribir el siguiente comando y dar enter.
